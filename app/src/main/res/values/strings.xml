@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RepasoPruebaMoviles</string>
+
+    <string name="textView_nombre">Nombre:</string>
+    <string name="editText_nombre">Ingrese su nombre</string>
+    <string name="textView_apellido">Apellido:</string>
+    <string name="editText_apellido">Ingrese su apellido</string>
+    <string name="textView_dividendo">Dividendo:</string>
+    <string name="editText_dividendo">Ingrese un numero</string>
+    <string name="textView_divisor">Divisor:</string>
+    <string name="editText_divisor">Ingrese un numero</string>
+    <string name="textView_invertido">Numero invertido:</string>
+    <string name="editText_invertido">resultado</string>
+    <string name="textView_entero">Parte entera:</string>
+    <string name="editText_entero">Resultado</string>
+    <string name="textView_residuo">Residuo:</string>
+    <string name="editText_residuo">Resultado</string>
+    <string name="textView_numero">Numero:</string>
+    <string name="editText_numero">Ingrese numero</string>
+
+    <string name="button_siguiente">Siguiente</string>
+    <string name="button_mostrar">Mostrar resultados</string>
+    <string name="button_cerrar">Cerrar</string>
+
+</resources>
